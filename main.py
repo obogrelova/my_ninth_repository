@@ -63,4 +63,4 @@ snake = Reptile(name="Змея", age=2, scale_type="Гладкая")
 
 animals = [parrot, tiger, snake]
 
-animals_sound(animals)
+animal_sound(animals)
